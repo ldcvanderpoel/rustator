@@ -115,4 +115,4 @@ cargo test
 ```
 
 # Inspiration
-This tool was heavily inspired by [Gotato](https://github.com/Josue87/gotator) and [altDNS](https://github.com/infosec-au/altdns). The design is slightly differend however, aiming for simply creating a way to combine wordlists. This requirement was based from observations of DNS records in the wild.
+This tool was heavily inspired by [Gotator](https://github.com/Josue87/gotator) and [altDNS](https://github.com/infosec-au/altdns). The design is slightly differend however, aiming for simply creating a way to combine wordlists. This requirement was based from observations of DNS records in the wild.
