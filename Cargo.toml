@@ -1,0 +1,10 @@
+[package]
+name = "rustator"
+version = "1.0.0"
+edition = "2021"
+authors = ["Laurens van der Poel"]
+
+[dependencies]
+itertools = "*"
+combinations = "*"
+clap = {version = "*", features = [ "derive" ]}
